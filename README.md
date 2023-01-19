@@ -18,7 +18,7 @@ https://brave-pond-0d02ab000.2.azurestaticapps.net/
 # Github Page Link
 https://github.com/JILLELLAMUDI-ABHINAV/Future_ready_project
 # Project Demo Video URL
-blah b;lah
+https://www.youtube.com/watch?v=8e6ZyD_RklA
 
 ![image](https://user-images.githubusercontent.com/111627677/213475054-3d5060c1-7d06-4b1f-96f6-80ce1bfb7519.png)
 
